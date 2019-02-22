@@ -17,8 +17,8 @@ Collection of Standard Power System Cases For Simulations
 #### IEEE Standard Test Cases
 #### Synthetic Power Grids
 #### Other Cases 
-. NREL 118-bus system
+- NREL 118-bus system
 
 
 ### Distribution Networks
-. 56-bus SCE system 
+- 56-bus SCE system 
